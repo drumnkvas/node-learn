@@ -1,9 +1,9 @@
 # node-learn
-Studying projects for node.js course
+Studying projects for node.js course.
 
 ## 01
 ### 01-01: hash generator
-Server returns hash from current timestamp
+Server returns hash from current timestamp.
 
 Test link: <http://5.19.210.159:8080>
 
