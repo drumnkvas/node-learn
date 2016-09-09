@@ -4,13 +4,14 @@ Studying projects for node.js course
 ## 01
 ### 01-01: hash generator
 Server returns hash from current timestamp
-TestLink: <http://5.19.210.159:8080>
 
-accepted values:
-hash = md5 | sha1
-type = plain | json
+Test link: <http://5.19.210.159:8080>
 
-example request with cURL: curl -sS 'http://5.19.210.159:8080?hash=md5&type=json'
+Accepted values:
+* hash = md5 | sha1
+* type = plain | json
+
+Example request with cURL: curl -sS 'http://5.19.210.159:8080?hash=md5&type=json'
 
 
 ### 01-02: cURL
