@@ -1,0 +1,11 @@
+{
+  "name": "hash-generator",
+  "version": "1.0.0",
+  "description": "Simple server returning values depending on input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vasily Sverchkov",
+  "license": "ISC"
+}
